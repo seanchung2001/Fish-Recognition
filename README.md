@@ -1,3 +1,3 @@
 # Fish-Recognition
 
-<h2>Use Machine Learning to Identify Species of Fish in an Image</h2>
+<h3>Use Machine Learning to Identify Species of Fish in an Image</h3>
