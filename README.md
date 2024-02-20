@@ -14,5 +14,9 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAteleopodidae (Jellynosh Fishes) - 20 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAtheriniformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAtherinopsidae (Silversides) - 26 photos<br>
-<h4>Total Number of Photos: 129</h4>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAulopiformes<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAlepisauridae (Lancetfish) - 15 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAulopidae (Flagfish) - 17 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSynodontidae (Lizardfish) - 16 photos<br>
+<h4>Total Number of Photos: 177</h4>
 </p>
