@@ -30,5 +30,7 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProscyllidae (Finback Catshark) - 22 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontiformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontidae (Australian Lungfish) - 27 photos<br>
-<h4>Total Number of Photos: 324</h4>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspChimaeriformes<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspChimaeridae (Shortnose chimaeras) - 30 photos<br>
+<h4>Total Number of Photos: 354</h4>
 </p>
