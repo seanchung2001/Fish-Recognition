@@ -32,5 +32,11 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontidae (Australian Lungfish) - 27 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspChimaeriformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspChimaeridae (Shortnose chimaeras) - 30 photos<br>
-<h4>Total Number of Photos: 354</h4>
+  Sarcopterygii<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&Ceratodontiformes<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 17 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCoelacanthiformes<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 17 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLepidosireniformes<br>
+<h4>Total Number of Photos: 388</h4>
 </p>
