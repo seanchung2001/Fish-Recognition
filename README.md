@@ -4,7 +4,7 @@
 
 <h3>Images of Fish</h3>
 <p>Actinopterygii<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAcipenseriformes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAcipenseridae (Sturgeons) - 22 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAcipenseridae (Sturgeons) - 50 photos<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPolyodontidae (Paddlefishes) - 21 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAlbuliformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAlbulidae (Bonefish) - 20 photos<br>
@@ -40,5 +40,5 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCoelacanthiformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 17 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLepidosireniformes<br>
-<h4>Total Number of Photos: 423</h4>
+<h4>Total Number of Photos: 473</h4>
 </p>
