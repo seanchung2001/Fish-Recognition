@@ -21,15 +21,13 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBatrachoidiformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBatrachoididae (Toadfish) - 50 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBeloniformes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBelonidae (Needlefish) - 28 photos<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspExocoetidae (Flyingfish) - 25 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBelonidae (Needlefish) - 50 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspExocoetidae (Flyingfish) - 50 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBercyiformes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAnoplogastridae (Fangtooth) - 20 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAnoplogastridae (Fangtooth) - 50 photos<br>
   Chondrichthyes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCarcharhiniformes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProscyllidae (Finback Catshark) - 22 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontiformes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontidae (Australian Lungfish) - 27 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontidae (Australian Lungfish) - 50 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspChimaeriformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspChimaeridae (Shortnose chimaeras) - 30 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHeterodontiformes <br>
@@ -40,5 +38,5 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCoelacanthiformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 17 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLepidosireniformes<br>
-<h4>Total Number of Photos: 720</h4>
+<h4>Total Number of Photos: 798</h4>
 </p>
