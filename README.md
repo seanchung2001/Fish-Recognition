@@ -34,9 +34,9 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHeterodontidae (Bullhead and Horn Sharks)- 35 photos<br>
   Sarcopterygii<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCeratodontiformes<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 17 photos<br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 50 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCoelacanthiformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 17 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLepidosireniformes<br>
-<h4>Total Number of Photos: 798</h4>
+<h4>Total Number of Photos: 831</h4>
 </p>
