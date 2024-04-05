@@ -37,6 +37,8 @@
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNeoceratodontidae - 50 photos<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCoelacanthiformes<br>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLatimeriidae - 50 photos<br>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLepidosireniformes<br>
-<h4>Total Number of Photos: 899</h4>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLatimeriidae - 50 photos<br>
+  Agnatha<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPetromyzontidae - 50 photos<br>
+<h4>Total Number of Photos: 949</h4>
 </p>
