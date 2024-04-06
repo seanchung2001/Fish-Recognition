@@ -40,5 +40,5 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLatimeriidae - 50 photos<br>
   Agnatha<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPetromyzontidae - 50 photos<br>
-<h4>Total Number of Photos: 949</h4>
+<h4>Total Number of Photos: 1000</h4>
 </p>
